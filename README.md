@@ -1,18 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pasindu Wilagama</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pazidu&label=Profile%20views&color=0e75b6&style=flat" alt="pazidu" /> </p>
-<p align="center">
-- 🔭 I’m currently working on [series-react](https://github.com/Pazidu/series-react)
- </p>
- <p align="center">
-- 🌱 I’m currently learning JavaScript, React
-   </p>
-<p align="center">
-- 📫 How to reach me pasidubhagya20@gmail.com
-  </p>
-<p align="center">
-- ⚡ Fun fact Call me as Pasindu
-</p><br/>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
